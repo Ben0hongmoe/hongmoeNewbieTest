@@ -1,0 +1,23 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Test2 : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+<<<<<<< HEAD
+        Debug.Log("测试制造789334410文本冲突。。。。024424244542112211");
+        Debug.Log("测试xxxx");
+	}
+=======
+        Debug.Log("测试制造5555555555555文本冲突。。。。122222222222222222");
+        Debug.Log("测试制造5555555555555文本冲突。。。。122222222222222222");
+    }
+>>>>>>> 7d96db303acca4d225fb91487a18646fb8ed3604
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+}
