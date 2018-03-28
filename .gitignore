@@ -32,3 +32,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/Assets/demoScene.unity
+/Assets/demoScene.unity
+/Assets/demoScene.unity
+/Assets/demoScene.unity
